@@ -25,4 +25,5 @@ print("Grade:", grade)
 
 
 output:-
-![Screenshot (31)](https://github.com/user-attachments/assets/5a5d059f-c41f-4030-b3fe-28ff701afc9d)
+![Screenshot (31)](https://github.com/user-attachments/assets/c4070a7f-1303-4e24-a2fa-c303dc2d8f1a)
+
