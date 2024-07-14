@@ -9,3 +9,4 @@ for i in range(10, 0, -1):
 output:- 
 
 ![Screenshot (34)](https://github.com/user-attachments/assets/46efdabc-c76d-4064-9f92-f67235066708)
+
